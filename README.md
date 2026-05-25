@@ -6,7 +6,7 @@ A full-stack collaborative task management web application where teams can creat
 
 ## Live Demo
 
-> 🔗 **[Your Railway URL here after deployment]**
+> 🔗 **taskmanager-production-365c.up.railway.app**
 
 ---
 
