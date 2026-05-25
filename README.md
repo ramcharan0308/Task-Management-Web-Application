@@ -287,7 +287,3 @@ assigned_to (→ users), created_by (→ users), created_at, updated_at
 - CORS configured to restrict origins in production
 
 ---
-
-## License
-
-MIT
