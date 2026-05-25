@@ -6,7 +6,7 @@ A full-stack collaborative task management web application where teams can creat
 
 ## Live Demo
 
-> 🔗 **taskmanager-production-365c.up.railway.app**
+> 🔗 **[taskmanager-production-365c.up.railway.app](taskmanager-production-365c.up.railway.app)**
 
 ---
 
